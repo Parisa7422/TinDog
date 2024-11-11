@@ -15,14 +15,6 @@ TinDog is a mock landing page for a dog-themed dating app, inspired by Tinder. I
 - **Google Fonts**
 - **Font Awesome**
 
-## Installation & Usage
-1. **Clone the Repository**
-   ```bash
-   git clone https://github.com/yourusername/TinDog.git
-   ```
-2. **Open `index.html` in Your Browser**
-   Navigate to the project folder and double-click on the `index.html` file to view the project in your browser.
-
 ## What I Learned
 - How to use **Bootstrap** to create a responsive layout.
 - How to incorporate **custom fonts** and **icons** to improve UI design.
