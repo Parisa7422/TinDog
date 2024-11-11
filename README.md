@@ -21,7 +21,7 @@ TinDog is a mock landing page for a dog-themed dating app, inspired by Tinder. I
 - Practiced working with **HTML/CSS basics** and Bootstrap components.
 
 ## Live Demo
-You can view the live demo of this project on [GitHub Pages](https://yourusername.github.io/TinDog).
+You can view the live demo of this project on [GitHub Pages](https://parisa7422.github.io/TinDog).
 
 ## Acknowledgments
 This project was built as part of a course to learn the fundamentals of front-end web development.
